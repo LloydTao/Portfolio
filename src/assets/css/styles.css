@@ -9,6 +9,8 @@ body {
     font-family: Raleway,sans-serif;
     color: #eee;
     background: transparent;
+    max-width: 900px;
+    margin: 0 auto;
 }
 
 header	{
